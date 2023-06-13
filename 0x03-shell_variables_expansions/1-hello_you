@@ -1,2 +1,2 @@
 #!/bin/bash
-yassine
+echo "hello $USER"
